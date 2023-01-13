@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![LionKing]("http://placeholder.com/200x150 "Title is optional")
+![LionKing](https://m.imdb.com/title/tt0318403/mediaviewer/rm2350576641/200x150 "Title is optional")
 ## About Me
 I currently live in the beautiful city of Denver, CO with my family. 
 I love adventures and traveling.
@@ -9,6 +9,6 @@ This is my first time coding, so I am definetly diving head first into the water
 ## Career Goals
 1. Graduate from UF's Masters of Web Design and Communications program.
     1. Hopefully with a GPA 3.5 or higher.
-2. Land a job as a front end web developer.
+2. Land a job as a front end web developer
     1. I would like to start at an entry-level position and work my way up to gain experience.
 3. Open a consultanting buisness with my wife. 
