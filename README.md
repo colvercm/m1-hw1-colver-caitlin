@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![LionKing](https://m.imdb.com/title/tt0318403/mediaviewer/rm2350576641/200x150 "Title is optional")
+![LionKing](https://i.gifer.com/51Wq.gif)
 ## About Me
 I currently live in the beautiful city of Denver, CO with my family. 
 I love adventures and traveling.
