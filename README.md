@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![LionKing](https://i.gifer.com/51Wq.gif)
+![Chill](giphy.gif)
 ## About Me
 I currently live in the beautiful city of Denver, CO with my family. 
 I love adventures and traveling.
